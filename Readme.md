@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Pratham%20Mishra&fontSize=38&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:e2e8f0,100:cbd5f5&height=170&section=header&text=Pratham%20Mishra&fontSize=38&fontColor=0f172a&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%7C+DSA+%7C+AI%2FML;Data+Analytics+%7C+Full-Stack+MERN;Focused+on+problem-solving+and+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%7C+DSA+%7C+AI%2FML;Data+Analytics+%7C+Full-Stack+MERN;Focused+on+problem-solving+and+impact" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratham-Mishra225&label=Profile%20Views&color=2c5364&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Pratham-Mishra225?label=Followers&style=for-the-badge&color=0f2027" />
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-203a43?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Pratham-Mishra225&label=Profile%20Views&color=64748b&style=flat" />
+  <img src="https://img.shields.io/github/followers/Pratham-Mishra225?label=Followers&style=flat&color=64748b" />
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-64748b?style=flat" />
 </p>
 
 ---
@@ -34,21 +34,21 @@
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-0f2027?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-203a43?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2c5364?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-64748b?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-64748b?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-64748b?style=flat&logo=python&logoColor=white)
 
 **Web**
 
-![HTML](https://img.shields.io/badge/HTML-0f2027?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-203a43?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2c5364?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-64748b?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-64748b?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-64748b?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-64748b?style=flat&logo=react&logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-203a43?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-2c5364?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-64748b?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-64748b?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
@@ -81,12 +81,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Mishra225&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Mishra225&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Mishra225&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=21600" />
+  <img src="https://streak-stats.demolab.com?user=Pratham-Mishra225&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Mishra225&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-Mishra225&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=21600" />
 </p>
 
 ---
