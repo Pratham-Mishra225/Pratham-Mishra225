@@ -129,97 +129,47 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 </table>
 
 ---
+## ⚡ Tech Stack
 
-## 🧰 Tech Stack
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
-<table>
-<tr>
-<td valign="top" width="25%">
+**Development**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 
-#### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java&perline=3" />
-</p>
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
-</td>
-<td valign="top" width="25%">
-
-#### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&perline=3" />
-</p>
-
-</td>
-<td valign="top" width="25%">
-
-#### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,prisma,nestjs&perline=3" />
-</p>
-
-</td>
-<td valign="top" width="25%">
-
-#### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,firebase&perline=3" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-#### ☁️ DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,nginx&perline=3" />
-</p>
-
-</td>
-<td valign="top">
-
-#### 🧪 Testing
-<p>
-<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,postman&perline=3" />
-</p>
-
-</td>
-<td valign="top">
-
-#### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=3" />
-</p>
-
-</td>
-<td valign="top">
-
-#### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,figma&perline=3" />
-</p>
-
-</td>
-</tr>
-</table>
-
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode)
 
 
 ## 💼 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prathammishraa/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-</a>
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" height="140">
+      <a href="https://www.linkedin.com/in/prathammishraa/">
+        <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+      </a>
 
-<br/><br/>
+      <br/><br/>
 
-<p align="center">
-  Open to <strong>internships</strong>, <strong>open-source collaboration</strong>, and <strong>interesting conversations</strong>.<br/>
-  Whether you have an idea, an opportunity, or just want to chat about tech — my inbox is open.
-</p>
+      <p align="center">
+        Open to <strong>internships</strong>, <strong>open-source collaboration</strong>, and <strong>interesting conversations</strong>.<br/>
+        Whether you have an idea, an opportunity, or just want to chat about tech — my inbox is open.
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -238,6 +188,6 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
-⭐ **From [<YOUR_GITHUB>](https://github.com/Pratham-Mishra225)** — *if you like what you see, consider starring a repo!*
+⭐ **From [Pratham Mishra](https://github.com/Pratham-Mishra225)** — *if you like what you see, consider starring a repo!*
 
 </div>
