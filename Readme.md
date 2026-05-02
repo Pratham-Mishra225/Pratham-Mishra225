@@ -216,7 +216,7 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prathammishraa/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="20" />
 </a>
 
 <br/><br/>
@@ -236,36 +236,6 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_GITHUB>&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" width="50%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_GITHUB>&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB>&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-
-</div>
-
----
 
 <div align="center">
 
