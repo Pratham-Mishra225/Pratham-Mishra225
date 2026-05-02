@@ -213,40 +213,23 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 
 ## 🏆 Coding Profiles
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<a href="https://leetcode.com/u/pratham_mishra225/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" /><br/>
-<b>LeetCode</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://codeforces.com/profile/<YOUR_CF>">
-<img src="https://codeforces.org/s/0/favicon-96x96.png" width="40" /><br/>
-<b>Codeforces</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.codechef.com/users/pratham_225">
-<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="80" /><br/>
-<b>CodeChef</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.hackerrank.com/profile/h1032241133">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="90" /><br/>
-<b>HackerRank</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.geeksforgeeks.org/profile/prathamm225">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" width="60" /><br/>
-<b>GeeksforGeeks</b>
-</a>
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://leetcode.com/u/pratham_mishra225/">
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://codeforces.com/profile/<YOUR_CF>">
+    <img src="https://img.shields.io/badge/Codeforces-111827?style=for-the-badge&logo=codeforces&logoColor=3B82F6" />
+  </a>
+  <a href="https://www.codechef.com/users/pratham_225">
+    <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=F59E0B" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h1032241133">
+    <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=22C55E" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/prathamm225">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=16A34A" />
+  </a>
+</div>
 
 <div align="center">
 
