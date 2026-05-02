@@ -27,9 +27,9 @@ class Engineer:
         self.university = "Mumbai University"
         self.location = "Mumbai, India"
         self.languages = ["Python", "Java", "JavaScript", "TypeScript"]
-        self.focus = ["Full-Stack Dev", "DSA", "AI / ML", "Systems"]
-        self.currently = "Building scalable products & contributing to OSS"
-        self.learning = ["Distributed Systems", "Cloud Native", "LLMs"]
+        self.focus = ["Full-Stack Dev", "DSA", "AI / ML"]
+        self.currently = "Building scalable AI Solutions"
+        self.learning = ["AI Agents", "Cloud"]
 
     def life_philosophy(self):
         return "Stay curious. Build relentlessly. Ship often."
@@ -86,15 +86,22 @@ A production-grade AI-powered platform that helps users <YOUR_PROBLEM_STATEMENT>
 <tr>
 <td valign="top">
 
-### ⚡ <YOUR_PROJECT_2>
-`SaaS` `Realtime`
+### 🛠️ <Social Media Crisis Agent>
+`AI` `Automation` `Analytics`
 
 </td>
 <td valign="top">
 
-A collaborative SaaS application enabling teams to <YOUR_PROBLEM_STATEMENT>. Features real-time multi-user sync via WebSockets, conflict-free data merging (CRDT), and an intuitive drag-and-drop interface designed for zero learning curve.
+An AI-powered web application that **detects and analyzes potential social media crises in real time**, enabling faster and more informed response strategies. Designed for brands and teams, it monitors signals, identifies risk patterns, and surfaces actionable insights before issues escalate.
 
-**Highlights:** WebSockets · CRDT sync · Tailwind UI · 99.9% uptime
+**Highlights:**
+- Real-time monitoring and detection of negative trends and anomalies  
+- AI-driven sentiment analysis for early crisis identification  
+- Insightful dashboards for quick decision-making  
+- Helps reduce response time and mitigate brand damage  
+- Deployed and accessible via web for instant usage  
+
+**Tech Stack:** React · JavaScript · AI APIs · Vercel Deployment · Data Visualization
 
 </td>
 <td valign="top" align="center">
@@ -108,16 +115,22 @@ A collaborative SaaS application enabling teams to <YOUR_PROBLEM_STATEMENT>. Fea
 <tr>
 <td valign="top">
 
-### 🛠️ <YOUR_PROJECT_3>
-`Systems` `DevTool`
+### 🛠️ <PromptVault>
+`AI` `DevTool` `Productivity`
 
 </td>
 <td valign="top">
 
-A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>, saving engineers hours of repetitive work. Distributed via npm with full TypeScript types, plugin support, and CI/CD integration baked in from day one.
+A developer-focused platform to **create, manage, and reuse high-quality prompts** for AI workflows. Designed to eliminate repetitive prompt writing and improve consistency across projects, PromptVault acts as a centralized hub for organizing and optimizing prompts.
 
-**Highlights:** TypeScript · Plugin API · 1k+ downloads · MIT licensed
+**Highlights:**
+- Structured prompt library for easy reuse and management  
+- Clean, responsive UI built for speed and usability  
+- Helps developers improve prompt quality and consistency  
+- Ideal for AI projects, prompt engineering, and experimentation  
+- Deployed and accessible via web for instant usage  
 
+**Tech Stack:** React · JavaScript · Vercel Deployment · Modern UI/UX
 </td>
 <td valign="top" align="center">
 
