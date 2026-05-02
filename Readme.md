@@ -64,7 +64,7 @@ class Engineer:
 <tr>
 <td valign="top">
 
-### 🧠 <Hello>
+### Hello
 `Full-Stack` `AI`
 
 </td>
@@ -86,7 +86,7 @@ A production-grade AI-powered platform that helps users <YOUR_PROBLEM_STATEMENT>
 <tr>
 <td valign="top">
 
-### 🛠️ <Social Media Crisis Agent>
+### Social Media Crisis Agent
 `AI` `Automation` `Analytics`
 
 </td>
@@ -115,7 +115,7 @@ An AI-powered web application that **detects and analyzes potential social media
 <tr>
 <td valign="top">
 
-### 🛠️ <PromptVault>
+### PromptVault
 `AI` `DevTool` `Productivity`
 
 </td>
