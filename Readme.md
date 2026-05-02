@@ -9,11 +9,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=334155&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;DSA+%7C+Full-Stack+%7C+AI%2FML;Focused+on+clean%2C+scalable+solutions" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathammishraa/">LinkedIn</a> ·
-  <a href="https://github.com/Pratham-Mishra225">GitHub</a>
-</p>
-
 </div>
 
 ---
