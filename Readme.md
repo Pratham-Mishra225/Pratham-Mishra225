@@ -160,13 +160,10 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
       <a href="https://www.linkedin.com/in/prathammishraa/">
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
       </a>
-
-      <br/><br/>
-
-      <p align="center">
+    <p align="center">
         Open to <strong>internships</strong>, <strong>open-source collaboration</strong>, and <strong>interesting conversations</strong>.<br/>
         Whether you have an idea, an opportunity, or just want to chat about tech — my inbox is open.
-      </p>
+    </p>
     </td>
   </tr>
 </table>
