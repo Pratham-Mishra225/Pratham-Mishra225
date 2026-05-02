@@ -135,7 +135,7 @@ A developer-focused platform to **create, manage, and reuse high-quality prompts
 <td valign="top" align="center">
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham-Mishra225/PromptVault)
-[![Live](https://img.shields.io/badge/View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-vault-roan.vercel.app/)
+[![Live](https://img.shields.io/badge/View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-vault-225.vercel.app/)
 
 </td>
 </tr>
