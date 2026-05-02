@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:334155,100:64748b&height=170&section=header&text=Pratham%20Mishra&fontColor=ffffff&fontSize=40&fontAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:334155,100:64748b&height=170&section=header&text=Pratham%20Mishra&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=ffffff&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;DSA+%7C+Full-Stack+%7C+AI%2FML;Focused+on+clean%2C+scalable+solutions" />
 
