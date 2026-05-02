@@ -39,10 +39,6 @@ class Engineer:
     def life_philosophy(self):
         return "Stay curious. Build relentlessly. Ship often."
 
-
-if __name__ == "__main__":
-    me = Engineer()
-    print(me.life_philosophy())
 ```
 
 </td>
@@ -220,7 +216,7 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 <table align="center">
 <tr>
 <td align="center" width="20%">
-<a href="https://leetcode.com/<YOUR_LEETCODE>">
+<a href="https://leetcode.com/u/pratham_mishra225/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" /><br/>
 <b>LeetCode</b>
 </a>
@@ -232,19 +228,19 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.codechef.com/users/<YOUR_CC>">
-<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="60" /><br/>
+<a href="https://www.codechef.com/users/pratham_225">
+<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="40" /><br/>
 <b>CodeChef</b>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.hackerrank.com/<YOUR_HR>">
+<a href="https://www.hackerrank.com/profile/h1032241133">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_logo.png" width="40" /><br/>
 <b>HackerRank</b>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.geeksforgeeks.org/user/<YOUR_GFG>">
+<a href="https://www.geeksforgeeks.org/profile/prathamm225">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" width="40" /><br/>
 <b>GeeksforGeeks</b>
 </a>
