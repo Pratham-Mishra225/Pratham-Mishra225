@@ -27,19 +27,17 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name        = "<YOUR_NAME>"
+        self.name        = "Pratham Mishra"
         self.role        = "Computer Engineering Student"
-        self.university  = "<YOUR_UNIVERSITY>"
-        self.year        = "<YOUR_YEAR> Year"
-        self.location    = "<YOUR_LOCATION>"
-        self.languages   = ["Python", "C++", "JavaScript", "TypeScript"]
+        self.university  = "Mumbai University"
+        self.location    = "Mumbai, India"
+        self.languages   = ["Python", "Java", "JavaScript", "TypeScript"]
         self.focus       = ["Full-Stack Dev", "DSA", "AI / ML", "Systems"]
         self.currently   = "Building scalable products & contributing to OSS"
         self.learning    = ["Distributed Systems", "Cloud Native", "LLMs"]
 
     def life_philosophy(self):
         return "Stay curious. Build relentlessly. Ship often."
-
 me = Engineer()
 print(me.life_philosophy())
 ```
