@@ -1,75 +1,248 @@
-<!-- Clean, minimal profile README -->
+<!-- =========================================================
+     PREMIUM GITHUB PROFILE README
+     Replace all <YOUR_*> placeholders with your real values.
+     ========================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f1f5f9,50:e2e8f0,100:cbd5f5&height=200&section=header&text=Pratham%20Mishra&fontColor=0f172a&fontSize=40&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=14&descAlignY=58&animation=fadeIn" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0F172A&center=true&vCenter=true&width=700&lines=DSA+%7C+Full-Stack+MERN+%7C+AI%2FML;Focused+on+clean+code+and+real-world+impact" />
-  <p>
-    <a href="https://github.com/Pratham-Mishra225"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/prathammishraa/"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=flat&logo=linkedin&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Pratham-Mishra225&label=Profile%20Views&color=94a3b8&style=flat" />
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20%3CYOUR_NAME%3E&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" />
+
+<a href="https://linkedin.com/in/<YOUR_LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:<YOUR_EMAIL>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://<YOUR_PORTFOLIO>"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/<YOUR_GITHUB>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB>&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-## About
-- Second-year Computer Engineering student based in Mumbai.
-- Building full-stack projects and strengthening DSA daily.
-- Interested in data analytics, business analysis, and AI/ML basics.
+## 👨‍💻 Professional Overview
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```python
+class Engineer:
+    def __init__(self):
+        self.name = "Pratham Mishra"
+        self.role = "Computer Engineering Student"
+        self.university = "Mumbai University"
+        self.location = "Mumbai, India"
+        self.languages = ["Python", "Java", "JavaScript", "TypeScript"]
+        self.focus = ["Full-Stack Dev", "DSA", "AI / ML", "Systems"]
+        self.currently = "Building scalable products & contributing to OSS"
+        self.learning = ["Distributed Systems", "Cloud Native", "LLMs"]
+
+    def life_philosophy(self):
+        return "Stay curious. Build relentlessly. Ship often."
+
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="coding" />
+
+<br/><br/>
+
+> 🎯 Passionate about turning ideas into clean, scalable code.
+> Always exploring the intersection of **engineering** & **design**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
-- DSA in C++ and Java.
-- MERN stack projects with clean architecture.
-- ML fundamentals and analytics workflows.
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<th width="33%">Project</th>
+<th width="50%">Description</th>
+<th width="17%">Links</th>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🧠 <YOUR_PROJECT_1>
+`Full-Stack` `AI`
+
+</td>
+<td valign="top">
+
+A production-grade AI-powered platform that helps users <YOUR_PROBLEM_STATEMENT>. Built with a modular architecture, real-time streaming responses, role-based access control, and an analytics dashboard that scales to thousands of concurrent users.
+
+**Highlights:** JWT auth · Vector search · Stripe billing · 95+ Lighthouse score
+
+</td>
+<td valign="top" align="center">
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_1>)
+[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_1>)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### ⚡ <YOUR_PROJECT_2>
+`SaaS` `Realtime`
+
+</td>
+<td valign="top">
+
+A collaborative SaaS application enabling teams to <YOUR_PROBLEM_STATEMENT>. Features real-time multi-user sync via WebSockets, conflict-free data merging (CRDT), and an intuitive drag-and-drop interface designed for zero learning curve.
+
+**Highlights:** WebSockets · CRDT sync · Tailwind UI · 99.9% uptime
+
+</td>
+<td valign="top" align="center">
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_2>)
+[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_2>)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🛠️ <YOUR_PROJECT_3>
+`Systems` `DevTool`
+
+</td>
+<td valign="top">
+
+A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>, saving engineers hours of repetitive work. Distributed via npm with full TypeScript types, plugin support, and CI/CD integration baked in from day one.
+
+**Highlights:** TypeScript · Plugin API · 1k+ downloads · MIT licensed
+
+</td>
+<td valign="top" align="center">
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_3>)
+[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_3>)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+#### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java&perline=3" />
+</p>
+
+</td>
+<td valign="top" width="25%">
+
+#### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&perline=3" />
+</p>
+
+</td>
+<td valign="top" width="25%">
+
+#### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,prisma,nestjs&perline=3" />
+</p>
+
+</td>
+<td valign="top" width="25%">
+
+#### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,firebase&perline=3" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+#### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,nginx&perline=3" />
+</p>
+
+</td>
+<td valign="top">
+
+#### 🧪 Testing
+<p>
+<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,postman&perline=3" />
+</p>
+
+</td>
+<td valign="top">
+
+#### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=3" />
+</p>
+
+</td>
+<td valign="top">
+
+#### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,figma&perline=3" />
+</p>
+
+</td>
+</tr>
+</table>
+
+
+
+## 💼 Let's Connect
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,mysql,git&perline=10" />
+
+<a href="https://www.linkedin.com/in/prathammishraa/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  Open to <strong>internships</strong>, <strong>open-source collaboration</strong>, and <strong>interesting conversations</strong>.<br/>
+  Whether you have an idea, an opportunity, or just want to chat about tech — my inbox is open.
+</p>
+
 </div>
 
 ---
 
-## Featured Projects
-- AI-Powered Finance Assistant: Personalized budgeting and investment suggestions.
-- File Management System: Secure auth with file storage and access control.
-- Quiz Game Platform: Multi-language quiz engine with scoring and analytics.
-
----
-
-## Coding Profiles
+## 💭 Quote of the Day
 
 <div align="center">
-  <a href="https://leetcode.com/u/pratham_mishra225/"><img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://www.codechef.com/users/pratham_225"><img src="https://img.shields.io/badge/CodeChef-0f172a?style=flat&logo=codechef&logoColor=F59E0B" /></a>
-  <a href="https://www.hackerrank.com/profile/h1032241133"><img src="https://img.shields.io/badge/HackerRank-0f172a?style=flat&logo=hackerrank&logoColor=22C55E" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/prathamm225"><img src="https://img.shields.io/badge/GeeksforGeeks-0f172a?style=flat&logo=geeksforgeeks&logoColor=16A34A" /></a>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
----
-
-## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham-Mishra225&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=Pratham-Mishra225&theme=default&hide_border=true" />
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
-## Contact
+⭐ **From [<YOUR_GITHUB>](https://github.com/Pratham-Mishra225)** — *if you like what you see, consider starring a repo!*
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/prathammishraa/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1d4ed8?style=flat&logo=linkedin&logoColor=white" /></a>
-  <p>Open to internships, open-source collaboration, and interesting conversations.</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cbd5f5,50:e2e8f0,100:f1f5f9&height=120&section=footer" />
 </div>
