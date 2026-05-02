@@ -78,7 +78,7 @@ A production-grade AI-powered platform that helps users <YOUR_PROBLEM_STATEMENT>
 <td valign="top" align="center">
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_1>)
-[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_1>)
+[![View](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_1>)
 
 </td>
 </tr>
@@ -106,8 +106,8 @@ An AI-powered web application that **detects and analyzes potential social media
 </td>
 <td valign="top" align="center">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_2>)
-[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_2>)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham-Mishra225/Social_Media_Crisis_Agent)
+[![view](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://social-media-crisis-agent.vercel.app/)
 
 </td>
 </tr>
@@ -134,8 +134,8 @@ A developer-focused platform to **create, manage, and reuse high-quality prompts
 </td>
 <td valign="top" align="center">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_3>)
-[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_3>)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham-Mishra225/PromptVault)
+[![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-vault-roan.vercel.app/)
 
 </td>
 </tr>
