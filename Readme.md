@@ -235,7 +235,7 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 </td>
 <td align="center" width="20%">
 <a href="https://www.hackerrank.com/profile/h1032241133">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_logo.png" width="90" /><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="90" /><br/>
 <b>HackerRank</b>
 </a>
 </td>
