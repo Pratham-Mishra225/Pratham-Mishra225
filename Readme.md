@@ -216,7 +216,7 @@ A developer-first CLI / open-source tool that automates <YOUR_PROBLEM_STATEMENT>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prathammishraa/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="60" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="100" />
 </a>
 
 <br/><br/>
