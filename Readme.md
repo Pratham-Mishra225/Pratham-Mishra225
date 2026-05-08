@@ -181,9 +181,7 @@ A developer-focused platform to **create, manage, and reuse high-quality prompts
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratham-Mishra225&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 
 <div align="center">
@@ -191,4 +189,8 @@ A developer-focused platform to **create, manage, and reuse high-quality prompts
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 ⭐ **From [Pratham Mishra](https://github.com/Pratham-Mishra225)** — *if you like what you see, consider starring a repo!*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratham-Mishra225&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
