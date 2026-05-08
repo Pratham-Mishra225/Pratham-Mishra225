@@ -181,6 +181,10 @@ A developer-focused platform to **create, manage, and reuse high-quality prompts
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratham-Mishra225&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 
 <div align="center">
 
