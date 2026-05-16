@@ -61,27 +61,6 @@ class Engineer:
 <th width="17%">Links</th>
 </tr>
 
-<!-- <tr>
-<td valign="top">
-
-### Hello
-`Full-Stack` `AI`
-
-</td>
-<td valign="top">
-
-A production-grade AI-powered platform that helps users <YOUR_PROBLEM_STATEMENT>. Built with a modular architecture, real-time streaming responses, role-based access control, and an analytics dashboard that scales to thousands of concurrent users.
-
-**Highlights:** JWT auth · Vector search · Stripe billing · 95+ Lighthouse score
-
-</td>
-<td valign="top" align="center">
-
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_LINK_1>)
-[![View](https://img.shields.io/badge/view-00C853?style=for-the-badge&logo=vercel&logoColor=white)](<YOUR_DEPLOY_LINK_1>)
-
-</td>
-</tr> -->
 
 <tr>
 <td valign="top">
@@ -136,6 +115,35 @@ A developer-focused platform to **create, manage, and reuse high-quality prompts
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham-Mishra225/PromptVault)
 [![Live](https://img.shields.io/badge/View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-vault-225.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Apex Learning Academy
+`Education` `Marketing` `Lead Gen`
+
+</td>
+<td valign="top">
+
+A premium coaching institute marketing site with a focused, single-page experience, themed styling, and a lead capture flow for families in Virar, Mumbai.
+
+**Highlights:**
+- Single-page narrative for hero, courses, features, results, testimonials, and contact
+- Local SEO metadata plus LocalBusiness JSON-LD schema
+- Lead form with primary endpoint and fallback Google Form
+- Framer Motion section reveals with a light/dark theme toggle
+- Mobile-first layout optimized for quick calls to action
+
+**Tech Stack:** Next.js (App Router) | React | Tailwind CSS v4 | Framer Motion | Vercel Deployment
+
+</td>
+<td valign="top" align="center">
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham-Mishra225/apex_learning)
+[![View](https://img.shields.io/badge/View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://apex-learning-sigma.vercel.app/)
 
 </td>
 </tr>
